@@ -1,0 +1,19 @@
+{
+    "name": "javascript-sample-application",
+    "version": "0.1.0-alpha",
+    "description": "JavaScript sample application",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/andrefsianipar/javascript-sample-application.git"
+    },
+    "author": "Andre Sianipar",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/andrefsianipar/javascript-sample-application/issues"
+    },
+    "homepage": "https://github.com/andrefsianipar/javascript-sample-application#readme"
+}
