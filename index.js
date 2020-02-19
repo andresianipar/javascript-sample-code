@@ -42,7 +42,7 @@ import {
 // test_05_higher_order_functions();
 
 // 06 the secret life of objects
-test_06_the_secret_life_of_objects()
+// test_06_the_secret_life_of_objects()
 
 // 07 project a robot
 test_07_project_a_robot()
